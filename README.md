@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software engineering intern at Ericsson with strong programming skills in Java, C++, and good knowledge of object-oriented design principles. Passion for Software Engineering and Embedded Software Development. Demonstrated technical innovation in projects like an Autonomous Drone, Weather Station, and Home Automation system. A motivated, adaptable team player ready to excel in a technical role.
-
+Software engineering intern at Ericsson with strong programming skills in Java, C++, and good knowledge of object-oriented design principles. Passion for Software Engineering and Embedded Software Development. Demonstrated technical innovation in projects like an Autonomous Drone, Weather Station, and Home Automation system.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kapoor/) 
